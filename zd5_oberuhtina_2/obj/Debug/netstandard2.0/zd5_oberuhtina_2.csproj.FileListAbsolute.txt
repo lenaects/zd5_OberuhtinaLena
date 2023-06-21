@@ -1,0 +1,17 @@
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\bin\Debug\netstandard2.0\zd5_oberuhtina_2.deps.json
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\bin\Debug\netstandard2.0\zd5_oberuhtina_2.dll
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\bin\Debug\netstandard2.0\ref\zd5_oberuhtina_2.dll
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\bin\Debug\netstandard2.0\zd5_oberuhtina_2.pdb
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.csproj.AssemblyReference.cache
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\Stylesheet1.css.g.cs
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.AssemblyInfoInputs.cache
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.AssemblyInfo.cs
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.csproj.CoreCompileInputs.cache
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.dll
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\refint\zd5_oberuhtina_2.dll
+C:\Users\st312-06\Documents\oberuhtina\zd5_oberuhtina_2\zd5_oberuhtina_2\obj\Debug\netstandard2.0\zd5_oberuhtina_2.pdb
